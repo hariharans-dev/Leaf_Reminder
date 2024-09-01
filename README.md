@@ -12,6 +12,7 @@ The system sends real-time alerts and reminders to water your plants, based on t
 Leaf_Reminder is perfect for plant enthusiasts who want to ensure their plants thrive with minimal effort.
 
 [Frontend Repository](https://github.com/hariharans-dev/Leaf_reminder_frontend) 
+[Backend Repository](https://github.com/hariharans-dev/Leaf_reminder_api) 
 
 ---
 
